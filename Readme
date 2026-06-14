@@ -1,0 +1,20 @@
+# AI Safety Concepts
+
+Prompt-based AI safety and character consistency techniques developed independently.
+
+## Concepts
+
+### DNA-Lock
+Text-based character anchoring technique for AI image generation.
+Achieves consistent character identity without LoRA or model training.
+
+### Pincet Defense  
+Selective security layer for LLM pipelines.
+Intervenes only when threat patterns are detected, preserving normal performance.
+
+### Muse vs Muse
+Adversarial same-capability LLM structure for attack pattern data collection.
+Uses LLM's self-proving tendency as a data extraction mechanism.
+
+## Author
+Independent researcher · Mobile-only development · 2026.04
